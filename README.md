@@ -1,5 +1,5 @@
 ![MasterHead](https://media.giphy.com/media/63pfyTdCx14wE/giphy.gif)
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="https://media.giphy.com/media/63pfyTdCx14wE/giphy.gif" alt="Girl in a jacket" width="500" height="600">
 
 <h1 align="center">Hi 👋, I'm Thitikorn Jawang</h1>
 <h3 align="center">A passionate newbie developer from Thailand</h3>
