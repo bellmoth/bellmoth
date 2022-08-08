@@ -1,5 +1,5 @@
 ![MasterHead](https://media.giphy.com/media/63pfyTdCx14wE/giphy.gif)
-<img src="https://media.giphy.com/media/63pfyTdCx14wE/giphy.gif" >
+<img src="https://media.giphy.com/media/63pfyTdCx14wE/giphy.gif" align="center">
 
 <h1 align="center">Hi 👋, I'm Thitikorn Jawang</h1>
 <h3 align="center">A passionate newbie developer from Thailand</h3>
