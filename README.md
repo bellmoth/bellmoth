@@ -1,4 +1,4 @@
-<p align="center">![MasterHead](https://media.giphy.com/media/63pfyTdCx14wE/giphy.gif)</p>
+![MasterHead align="center"](https://media.giphy.com/media/63pfyTdCx14wE/giphy.gif)
 
 
 <h1 align="center">Hi 👋, I'm Thitikorn Jawang</h1>
